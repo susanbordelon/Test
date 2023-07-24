@@ -1,0 +1,42 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<title>Maddie B's - History</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<header>
+<img src="images/logo.jpg" alt=Maddie B's logo" width "200" height= "200">
+<h1>Maddie B's!<h1>
+
+</header>
+<nav>
+<ul>
+<li><a href="index.html">Home</a><li>
+<li><a href="aboutus.html">About Us</a><li>
+<li><a href="menu.html">Menu</a><li>
+<li><a href="history.html">Our History</a><li>
+</ul>
+</nav>
+<main>
+<h2>The History of Maddie B's</h2>
+<p>Maddie B's was created from the thoughts and ideas of the family members from the Bordelon family.
+Marty Bordelon aka "MoMo" was a Caddo Adai Indian that had family recipes that had been passed down
+to her from her grandmother.  She married a south Louisiana man from Cajun country that a certain spice
+to the recipes that were already loved.  Marty passed these loved recipes to Maddie B who took them
+and figured their secret.</p>
+
+<p>Maddie B has taken the beloved dishes from Marty and added her own flare to them.  These southern 
+dishes bring love, warmth and family from our table to yours.</p>
+
+ 
+</main>
+
+<footer></footer>
+
+</body>
+
+</html>
