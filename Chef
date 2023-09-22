@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Maddie B's - Chef Page</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<header>
+<img src="images/logo.jpg" alt="Maddie B's logo">
+<h1>Meet Chef Maddie!</h1>
+<br>
+<br>
+</header>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="aboutus.html">About Us</a><li>
+<li><a href="menu.html">Menu</a><li>
+<li><a href="history.html">Our History</a><li>
+<li><a href="contactus.html">Contact Us</a></li>
+<li><a href="chef.html">Chef</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+</ul>
+</nav>
+<main>
+<h2>Meet Chef Maddie</h2>
+<p>Chef Maddie grew up learning her grandmother's receipes at an early age.  When she graduated
+high school, she went abroad and studied at The School of Artisan Food in London, La Cuisine in Paris,
+Cook and Taste in Barcelona and Ballymaloe Cookery School in Ireland.  After refining and mastering
+her skills abroad, she came home and started her own restaurant to bring her grandmothers receipes
+back alive.</p>
+
+<br>
+<hr>
+</main>
+<footer>
+<p><a href="index.html">Home</a> | <a href="aboutus.html">About Us</a> | <a href="history.html">History</a>
+<a href="menu.html">Menu</a> | <a href="contactus.html">Contact Us</a> | <a href="chef.html">Chef</a> | 
+<a href="gallery.html">Gallery</a>
+</p>
+</footer>
+</body>
+</html>
