@@ -1,0 +1,107 @@
+@charset "utf-8";
+
+body {
+	background-color:#616247;
+	font-family: Arial, Tahoma, sans-serif;
+	font-size:14pt;
+	color: #000000;
+}
+
+h1 {
+	color: #F0EAD6;
+}
+
+header {
+	background-color: #000000;
+	color: #F0EAD6;
+	text-align: center;
+	padding: 5px;
+	width: 80%;
+	margin-left: 10%;
+	border: 1px solid #000000
+	border-radius: 10px;
+}
+
+#container {
+	width: 100%;
+	border-radius: 10px;
+}
+
+main {
+	width: 80%;
+	background-color: #f0ead6;
+	float: left;
+	padding: 5px;
+	margin-left: 10%;
+	border-radius: 10px;
+}
+
+footer {
+	clear: both;
+	background-color: #000000;
+	color: #F0EAD6;
+	text-align: center;
+	margin-left: 10%;
+	padding: 5px;
+	font-size: 12pt;
+	width: 80%;
+}
+
+nav{
+	color: #000000;
+	padding: 5px;
+	width: 80%;
+	margin-left: 10%;
+	font-weight: bold;
+	border-radius: 20px;
+}
+nav ul {
+	list-style: none;
+}
+
+nav ul li {
+	float: left;
+	padding: 5px;
+}
+
+nav ul li a:link, nav ul li a:visited {
+	display: block;
+	width: 120px;
+	margin-right; 4px;
+	color: #000000;
+	padding: 2px 4px 2px 4px;
+	background-color: #F0EAD6;
+	text-decoration: none;
+	border-radius: 10px;
+}
+
+/*Change #3 - Changed the hover color for navigation bar*/
+nav ul li a:hover {
+	color: #F0EAD66;
+	background-color: #FFD662;
+}
+
+/*Change #2 - Changed border of table to make them rounded*/
+table {
+	width:100%;
+	border:1px solid #999999;
+	border-radius: 5px;
+}
+
+table th, table td {
+	border: 1px solid #999999;
+	border-radius: 5px;
+}
+
+#tablecolor {
+	background-color: #FFD662;
+	color: #000000;
+}
+
+#newcolor {
+	background-color: #000000;
+	color: #FFD662;
+}
+
+/*Change #1 - Added the hover effect to my table*/
+tr:hover {background-color:#F0EAD6;}
